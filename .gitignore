@@ -1,0 +1,29 @@
+# Ignore pasta de build e dependências
+/bin/
+/obj/
+/.vs/
+/.vscode/
+/node_modules/
+
+# Ignore arquivos de configuração específicos do IDE
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários do sistema operacional
+Thumbs.db
+Desktop.ini
+
+# Ignore arquivos específicos do Visual Studio
+.vsconfig
+
+# Ignorar arquivos de sistema Mac
+.DS_Store
+
+# Ignorar arquivos de backup
+*~.bak
