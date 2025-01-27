@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\Projeto dupla\\CRUDProdtuos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{655E4A8B-4A17-407E-9F63-A1AA35CF12CC}|CRUDProdtuos\\CRUDProdtuos.csproj|d:\\projeto dupla\\crudprodtuos\\crudprodtuos\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655E4A8B-4A17-407E-9F63-A1AA35CF12CC}|CRUDProdtuos\\CRUDProdtuos.csproj|solutionrelative:crudprodtuos\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{655E4A8B-4A17-407E-9F63-A1AA35CF12CC}|CRUDProdtuos\\CRUDProdtuos.csproj|d:\\projeto dupla\\crudprodtuos\\crudprodtuos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{655E4A8B-4A17-407E-9F63-A1AA35CF12CC}|CRUDProdtuos\\CRUDProdtuos.csproj|solutionrelative:crudprodtuos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{655E4A8B-4A17-407E-9F63-A1AA35CF12CC}|CRUDProdtuos\\CRUDProdtuos.csproj|d:\\projeto dupla\\crudprodtuos\\crudprodtuos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{655E4A8B-4A17-407E-9F63-A1AA35CF12CC}|CRUDProdtuos\\CRUDProdtuos.csproj|solutionrelative:crudprodtuos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{655E4A8B-4A17-407E-9F63-A1AA35CF12CC}|CRUDProdtuos\\CRUDProdtuos.csproj|d:\\projeto dupla\\crudprodtuos\\crudprodtuos\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{655E4A8B-4A17-407E-9F63-A1AA35CF12CC}|CRUDProdtuos\\CRUDProdtuos.csproj|solutionrelative:crudprodtuos\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{655E4A8B-4A17-407E-9F63-A1AA35CF12CC}|CRUDProdtuos\\CRUDProdtuos.csproj|d:\\projeto dupla\\crudprodtuos\\crudprodtuos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{655E4A8B-4A17-407E-9F63-A1AA35CF12CC}|CRUDProdtuos\\CRUDProdtuos.csproj|solutionrelative:crudprodtuos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{655E4A8B-4A17-407E-9F63-A1AA35CF12CC}|CRUDProdtuos\\CRUDProdtuos.csproj|d:\\projeto dupla\\crudprodtuos\\crudprodtuos\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655E4A8B-4A17-407E-9F63-A1AA35CF12CC}|CRUDProdtuos\\CRUDProdtuos.csproj|solutionrelative:crudprodtuos\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Projeto dupla\\CRUDProdtuos\\CRUDProdtuos\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "CRUDProdtuos\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Projeto dupla\\CRUDProdtuos\\CRUDProdtuos\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "CRUDProdtuos\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T01:42:17.806Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projeto dupla\\CRUDProdtuos\\CRUDProdtuos\\Program.cs",
-              "RelativeDocumentMoniker": "CRUDProdtuos\\Program.cs",
-              "ToolTip": "D:\\Projeto dupla\\CRUDProdtuos\\CRUDProdtuos\\Program.cs",
-              "RelativeToolTip": "CRUDProdtuos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-23T01:40:41.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Projeto dupla\\CRUDProdtuos\\CRUDProdtuos\\appsettings.json",
               "RelativeDocumentMoniker": "CRUDProdtuos\\appsettings.json",
               "ToolTip": "D:\\Projeto dupla\\CRUDProdtuos\\CRUDProdtuos\\appsettings.json",
               "RelativeToolTip": "CRUDProdtuos\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-23T01:34:11.818Z",
+              "WhenOpened": "2025-01-27T17:03:04.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "D:\\Projeto dupla\\CRUDProdtuos\\CRUDProdtuos\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "CRUDProdtuos\\Controllers\\ProdutosController.cs",
+              "ToolTip": "D:\\Projeto dupla\\CRUDProdtuos\\CRUDProdtuos\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "CRUDProdtuos\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:59:34.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutoModel.cs",
+              "DocumentMoniker": "D:\\Projeto dupla\\CRUDProdtuos\\CRUDProdtuos\\Models\\ProdutoModel.cs",
+              "RelativeDocumentMoniker": "CRUDProdtuos\\Models\\ProdutoModel.cs",
+              "ToolTip": "D:\\Projeto dupla\\CRUDProdtuos\\CRUDProdtuos\\Models\\ProdutoModel.cs",
+              "RelativeToolTip": "CRUDProdtuos\\Models\\ProdutoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:49:26.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projeto dupla\\CRUDProdtuos\\CRUDProdtuos\\Views\\Produtos\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDProdtuos\\Views\\Produtos\\Index.cshtml",
+              "ToolTip": "D:\\Projeto dupla\\CRUDProdtuos\\CRUDProdtuos\\Views\\Produtos\\Index.cshtml",
+              "RelativeToolTip": "CRUDProdtuos\\Views\\Produtos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T16:12:59.215Z",
               "EditorCaption": ""
             }
           ]
