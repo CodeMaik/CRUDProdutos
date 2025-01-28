@@ -38,8 +38,7 @@
               "RelativeToolTip": "CRUDProdtuos\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-27T17:03:04.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T17:03:04.667Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "CRUDProdtuos\\Controllers\\ProdutosController.cs",
               "ToolTip": "D:\\Projeto dupla\\CRUDProdtuos\\CRUDProdtuos\\Controllers\\ProdutosController.cs",
               "RelativeToolTip": "CRUDProdtuos\\Controllers\\ProdutosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T16:59:34.431Z",
               "EditorCaption": ""
@@ -64,8 +63,7 @@
               "RelativeToolTip": "CRUDProdtuos\\Models\\ProdutoModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T16:49:26.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T16:49:26.728Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "CRUDProdtuos\\Views\\Produtos\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-27T16:12:59.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T16:12:59.215Z"
             }
           ]
         }
