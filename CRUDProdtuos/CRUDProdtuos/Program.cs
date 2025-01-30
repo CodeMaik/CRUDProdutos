@@ -1,4 +1,5 @@
 using CRUDProdtuos.Data;
+using CRUDProdtuos.Services.Produto;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,6 +13,8 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 
 });
 
+
+builder.Services.AddScoped<IProdutoInterface, ProdutoService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
